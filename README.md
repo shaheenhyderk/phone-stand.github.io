@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Phone Stand Using Cardboard
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/phone-stand.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Many of us were making key chain, engraving faces, etc. in laser and some of them print phone stand in 3D. So I planned for making phone stand in laser using cardboard. First designed 2D in rhino. Then printed it. It was not cutted properly due to lack of pressure. Then I cutted it once more, thus it was clear.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Design in rhino
 
-### Markdown
+<img src="https://shaheenhyderk.github.io/p.jpg" width="600" height="400">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Cutting
 
-```markdown
-Syntax highlighted code block
+<img src="https://shaheenhyderk.github.io/IMG_20170827_133308[1].jpg" width="600" height="400">
 
-# Header 1
-## Header 2
-### Header 3
+#### After cut
+<img src="https://shaheenhyderk.github.io/IMG_20170822_202513[1].jpg" width="600" height="400">
 
-- Bulleted
-- List
+#### Final view
 
-1. Numbered
-2. List
+<img src="https://shaheenhyderk.github.io/IMG_20170827_134111[1].jpg" width="600" height="500">
 
-**Bold** and _Italic_ and `Code` text
+#### Phone on it
 
-[Link](url) and ![Image](src)
-```
+<img src="https://shaheenhyderk.github.io/IMG_20170822_191742[1].jpg" width="600" height="500">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/phone-stand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Go To:
+ 
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/milling.github.io/)
